@@ -7293,14 +7293,14 @@ h3 {
     .masthead .masthead-subheading {
       font-size: 1.5rem; } }
 
-.portfolio .portfolio-item {
+.portfolio.portfolio-item {
   cursor: pointer;
   position: relative;
   display: block;
   max-width: 25rem;
   border-radius: 0.5rem;
   overflow: hidden; }
-  .portfolio .portfolio-item .portfolio-item-caption {
+  .portfolio .portfolio -item .portfolio-item-caption {
     position: absolute;
     top: 0;
     left: 0;
